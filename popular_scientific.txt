@@ -1,0 +1,33 @@
+These infrared images show just how alive butterflies’ wings are
+They contain “wing hearts” that pump blood and regulate temperatures.
+
+By Molly Glick
+February 5, 2020
+an infrared heat map of butterfly wings
+Contrary to popular belief, butterfly wings actually have living cells that help them thermoregulate.Yu et al.
+From the iridescent blue wings of the Eumaeus atala butterfly to the painted lady’s signature fiery orange, it’s no secret butterflies have some pretty captivating flappers. For a long time, it seemed as if the insects achieved such radiance through sets of lifeless cells. But now, new research suggests a butterfly’s wings actually contain a network of living cells that serve a key purpose: to carefully regulate wing temperature. This network can contain something called a “wing heart,” which beats a few dozen times per minute to control blood flow.
+
+To better understand such complex structures within butterfly wings, researchers from Columbia and Harvard developed a new infrared imaging technique.
+
+The team removed the wing scales of more than 50 butterfly species to get a closer look at the interior neurons lurking underneath. Their custom thermal camera then recorded the wing’s cooling process, highlighting where heat dissipated from certain areas.
+
+Ultimately, as they showcase in their study published last week in Nature, they produced colorful maps of temperature distributions among butterfly wings.
+
+ADVERTISEMENT / ADVERTISE WITH US
+“This has been difficult to do until now because of the thinness and delicacy of butterfly wings,” says study author Naomi E. Pierce, an entomologist at Harvard University. Their noninvasive thermal camera was key in observing fragile wing structures without disturbing them.
+
+The heat maps illuminate the narrow temperature range that butterflies require to soar at their best. They rely on the sun as their primary heat source—but a butterfly’s wings can quickly overheat in the sun, while cold environments can slow blood blow and hinder their movement.
+
+an infrared and visual light photograph of a butterfly
+This hickory hairstreak butterfly has wings that overheat rather quickly.Yu et al.
+To recreate the insect’s natural environment, researchers simulated sunlight by shining a lamp from above; they found that the butterfly wing’s living cells sense the sun’s direction and intensity, and counter with certain behaviors to maintain an ideal temperature. For example, some species may correspondingly close their wings or tilt away from the sun.
+
+ADVERTISEMENT / ADVERTISE WITH US
+“They’re very much able to sense heat on their wings,” says Adriana Briscoe, an evolutionary biologist at University of California, Irvine who wasn’t involved with the study. “It’s super cool to show that [butterflies] both sense the heat and respond behaviourally, looking in detail at the physiological basis of it.”
+
+Briscoe recently published a different study that also examined butterfly thermoregulation, though her team focused on behavior within real-life habitats. A warming world will challenge butterflies as they adapt to their local environments, Briscoe says.
+
+In the future, the Columbia and Harvard teams hope that a butterfly’s heat regulation techniques could inform the development of heat-resistant aircrafts. This could be particularly useful since high temperatures have already grounded commercial flights.
+
+ADVERTISEMENT / ADVERTISE WITH US
+“This is an inspiration for designing the wings of flying machines,” study author Nanfang Yu, an applied physicist at Columbia University, said in a press release. “Perhaps wing design should not be solely based on considerations of flight dynamics.”
