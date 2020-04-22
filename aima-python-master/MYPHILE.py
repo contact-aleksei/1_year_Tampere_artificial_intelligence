@@ -1,0 +1,68 @@
+from csp import *
+
+import time
+
+#print('NEW SUDOKU mrv easier')
+#start_time = time.time()
+#f = Sudoku(easy1)
+#f.display(f.infer_assignment())
+#print('backtracking search EASY')
+#result1=backtracking_search(f)
+#f.display(f.infer_assignment())
+#print("--- %s seconds ---" % (time.time() - start_time))
+#k1=len(result1)
+#print("number of backtracks")
+#print(k1)
+#print("--- --- ++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+#
+#print('NEW SUDOKU mrv harder')
+#start_time = time.time()
+#g = Sudoku(harder1)
+#g.display(g.infer_assignment())
+#print('backtracking search HARDER')
+#resultg=backtracking_search(g, select_unassigned_variable=mrv, inference=forward_checking)
+#g.display(g.infer_assignment())
+#print("--- %s seconds ---" % (time.time() - start_time))
+#kg=len(resultg)
+#print("number of backtracks")
+#print(kg)
+#print("--- --- ++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+
+
+
+print('1   NEW SUDOKU, AC3 initialized, EASY ;HEURISTICS')
+start_time = time.time()
+e = Sudoku(easy1)
+e.display(e.infer_assignment())
+print('sudoku, AC3 solved')
+AC3(e,arc_heuristic=dom_j_up); e.display(e.infer_assignment())
+print("--- %s seconds ---" % (time.time() - start_time))
+print("--- --- ++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+print('2   NEW SUDOKU, AC3 initialized, EASY ;NO HEURISTICS')
+start_time = time.time()
+e1 = Sudoku(easy1)
+e1.display(e1.infer_assignment())
+print('sudoku, AC3 solved')
+AC3(e1); e1.display(e1.infer_assignment())
+print("--- %s seconds ---" % (time.time() - start_time))
+print("--- --- ++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+print('3   NEW SUDOKU, AC3 initialized, harder ;HEURISTICS')
+start_time = time.time()
+e2 = Sudoku(harder1)
+e2.display(e2.infer_assignment())
+print('sudoku, AC3 solved')
+AC3(e2,arc_heuristic=dom_j_up); e2.display(e2.infer_assignment())
+print("--- %s seconds ---" % (time.time() - start_time))
+print("--- --- ++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+print('4   NEW SUDOKU, AC3 initialized, harder ;NO HEURISTICS')
+start_time = time.time()
+e3 = Sudoku(harder1)
+e3.display(e3.infer_assignment())
+print('sudoku, AC3 solved')
+AC3(e3); e3.display(e3.infer_assignment())
+print("--- %s seconds ---" % (time.time() - start_time))
+print("--- --- ++++++++++++++++++++++++++++++++++++++++++++++++++++++")
